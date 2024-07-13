@@ -1,8 +1,29 @@
+/*star -> aplied all bage */
+*{
+	/*background-image: url("../img/sw.jpg");
+	background-repeat:no-repeat ;
+	background-position: right top;*/
+	background-color: #e0e0e0;
+}
 	H1 {
+	
 	background-color: #fce4ec;
-	
 }
+/* Id */
 .se {
-	background-color:#d1c4e9;
-	
+	background-color:#e0f7fa;
+
 }
+/* for mobile screen */
+img{
+
+	width: 50%;
+
+}
+/*
+animathion-name : samaui;
+animathion-direction : 4s;
+@keyframes samaui {
+	from{color:bink;}
+	to{color:green;}
+}*/
