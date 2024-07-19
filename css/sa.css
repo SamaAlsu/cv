@@ -1,29 +1,21 @@
 /*star -> aplied all bage */
-*{
-	/*background-image: url("../img/sw.jpg");
-	background-repeat:no-repeat ;
-	background-position: right top;*/
-	background-color: #e0e0e0;
-}
-	H1 {
+
+.sw {
 	
+ width: 500px;
 	background-color: #fce4ec;
 }
 /* Id */
 .se {
-	background-color:#e0f7fa;
+	width: 500px;
+ 
+	
 
 }
-/* for mobile screen */
-img{
 
-	width: 50%;
+#div1 {
+
+font-size: 25px;
+background-color:#e0f7fa;
 
 }
-/*
-animathion-name : samaui;
-animathion-direction : 4s;
-@keyframes samaui {
-	from{color:bink;}
-	to{color:green;}
-}*/
